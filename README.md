@@ -1,1 +1,1 @@
-# Open-Data-API
+# 공공 데이터 (오픈 데이터) API 제대로 배우기(by 김동준) study.
